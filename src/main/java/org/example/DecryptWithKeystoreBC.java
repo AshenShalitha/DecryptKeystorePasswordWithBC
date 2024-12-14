@@ -14,7 +14,7 @@ public class DecryptWithKeystoreBC {
     public static void main(String[] args) throws Exception {
         // Base64-encoded password and keystore info
         String password = "eyJjIjoiWVRsQ1F2YlNHZUdmN0VuYnF0RTFkTGJTSjk1VzhDdE11OTI2ajZTcWFKQURWbWJuMzBodEhtQUhEeGhWQi8yL3RycFpvVlBsQXR4YXgrbmdGRkgzQTRjUUhBUnowRkhNTm4vVHRxU3JEQkQ4YkxoS2F5U0x2QlhKRm5xdEY1K0lJKzUyczAva3c4bTE4b1AreW1VRlQwNG5OSGF3Tk1ua3ozSWo4cVpnQ2VNT1FKd09BckFpZ0NqQ21KUzd2eEY5akNpNjY3ZWExWjZwTFZoWTNKZ2VPMzl2U0Z4T1lrODA0NVFGMU1ZUncrWDdKRVF6QUFpUGNOWlBIRktsVTJxL2k2Q3cwdHpUMlVsd3RRcG1GUGNzcjZSd0ZUMGoxZ01qek9welpMamp0RUdJL0VEeFhCTWpFRGpNc3haUmNBTndaSUkwOGZzdVVXUjA0VGFiMlRaVkdnXHUwMDNkXHUwMDNkIiwidCI6IlJTQS9FQ0IvT0FFUHdpdGhTSEExYW5kTUdGMVBhZGRpbmciLCJ0cCI6IjU3RkYzOEQ5NzY2NEM3OTJGRjg4MDExNzFGMDQxOTFERUQ4ODc3OEQiLCJ0cGQiOiJTSEEtMSJ9";
-        String keystorePath = "/Users/ashens/Work/Products/U2/wso2am-4.0.0.298/repository/resources/security/wso2carbon.jks";
+        String keystorePath = "/Users/Products/U2/wso2am-4.0.0.298/repository/resources/security/wso2carbon.jks";
         String keystorePassword = "wso2carbon";
         String keyAlias = "wso2carbon";
         String keyPassword = "wso2carbon";
